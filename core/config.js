@@ -1,6 +1,6 @@
 const env = {
-    API_URL: "https://thuexe.tech",
-    SITE_URL: "https://bao.name.vn",
+    API_URL: "http://bao.name.vn",
+    SITE_URL: "https://thuexe.tech",
     ACTIVE_ENV: "development"
 }
 
